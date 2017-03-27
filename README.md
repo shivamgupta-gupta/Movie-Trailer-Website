@@ -8,8 +8,8 @@ This project creates a website which contains list of my favourite movies. You c
     - Open the file `entertainment_center.py` in your python editor.
     - Run the file.
 
-  - To run the project in Windows
-    - Install python in windows from <a href="https://www.python.org/downloads/">here</a>.
+  - To run the project in Linux
+    - Install python in Linux from <a href="https://www.python.org/downloads/">here</a>.
     - Go into the directory of the project.
     - Run the file entertainment_center.py from the terminal by typing - 
     ```sh
