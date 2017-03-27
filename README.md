@@ -4,12 +4,12 @@ This project creates a website which contains list of my favourite movies. You c
 
 ## Running instructions:
   - To run the project in Windows
-    - Install python in windows from <a href="">here</a>.
+    - Install python in windows from <a href="https://www.python.org/downloads/windows/">here</a>.
     - Open the file `entertainment_center.py` in your python editor.
     - Run the file.
 
   - To run the project in Windows
-    - Install python in windows from <a href="">here</a>.
+    - Install python in windows from <a href="https://www.python.org/downloads/">here</a>.
     - Go into the directory of the project.
     - Run the file entertainment_center.py from the terminal by typing - 
     ```sh
